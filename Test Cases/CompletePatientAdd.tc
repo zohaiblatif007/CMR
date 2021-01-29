@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletePatientAdd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>531ed93a-e25b-47b1-b2d2-5d2731900ef2</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8143e302-3b11-4217-babd-7000470c65df</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

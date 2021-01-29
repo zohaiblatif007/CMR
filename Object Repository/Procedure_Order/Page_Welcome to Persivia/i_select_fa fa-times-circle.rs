@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_select_fa fa-times-circle</name>
+   <tag></tag>
+   <elementGuidId>7aa32d81-b0fb-477c-95ae-ffb52f5977d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-times-circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-times-circle</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;k-webkit k-webkit88&quot;]/body[1]/div[@class=&quot;k-widget k-window k-window-form-template clinical-procedure-order k-state-focused&quot;]/div[@class=&quot;k-popup-edit-form k-window-content k-content&quot;]/div[@class=&quot;k-edit-form-container&quot;]/div[@class=&quot;form form-horizontal wizard-form row wizard-procedure-order no-padding-right no-padding-left&quot;]/div[@class=&quot;col-sm-12 lab-tests no-padding&quot;]/div[@class=&quot;form-group col-sm-12&quot;]/span[@class=&quot;col-sm-12 lab-order-heading&quot;]/span[@class=&quot;remove-panel&quot;]/i[@class=&quot;fa fa-times-circle&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Procedure_Order/Page_Welcome to Persivia/iframe_SignOut_appCCM</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/i</value>
+   </webElementXpaths>
+</WebElementEntity>

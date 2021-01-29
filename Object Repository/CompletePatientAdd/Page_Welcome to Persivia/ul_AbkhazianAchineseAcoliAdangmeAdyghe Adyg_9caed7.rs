@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_AbkhazianAchineseAcoliAdangmeAdyghe Adyg_9caed7</name>
+   <tag></tag>
+   <elementGuidId>e1e361cf-a933-4eca-b887-ca04df488b66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='new_patient_language']/ul/li[3]/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.list</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-container-type</name>
+      <type>Main</type>
+      <value>selected</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AbkhazianAchineseAcoliAdangmeAdyghe; AdygeiAfarAfrihiliAfrikaansAfro-Asiatic languagesAinuAkanAkkadianAlbanianAleutAlgonquian languagesAltaic languagesAmerican EnglishAmharicAngikaApache languagesArabicAragoneseArapahoArawakArgentine SpanishArmenianAromanian; Arumanian; Macedo-RomanianArtificial languagesAssameseAsturian; Bable; Leonese; AsturleoneseAthapascan languagesAustralian EnglishAustralian languagesAustrian GermanAustronesian languagesAvaricAvestanAwadhiAymaraAzerbaijaniBalineseBaltic languagesBaluchiBambaraBamileke languagesBanda languagesBangla (Bangladesh)Bangla (India)Bantu languagesBasaBashkirBasqueBatak languagesBeja; BedawiyetBelarusianBelgian DutchBelgian FrenchBembaBengaliBerber languagesBhojpuriBihari languagesBikolBini; EdoBislamaBlin; BilinBlissymbols; Blissymbolics; BlissBokmål, Norwegian; Norwegian BokmålBosnianBrajBrazilian PortugueseBretonBritish EnglishBugineseBulgarianBuriatBurmeseCaddoCanadian EnglishCanadian FrenchCastilian Spanish (as spoken in Central-Northern Spain)Catalan; ValencianCaucasian languagesCebuanoCeltic languagesCentral American Indian languagesCentral KhmerChagataiChamic languagesChamorroChechenCherokeeCheyenneChibchaChichewa; Chewa; NyanjaChilean SpanishChineseChinook jargonChipewyan; Dene SulineChoctawChurch Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church SlavonicChuukeseChuvashClassical Newari; Old Newari; Classical Nepal BhasaClassical SyriacColombian SpanishCopticCornishCorsicanCreeCreekCreoles and pidginsCreoles and pidgins, English basedCreoles and pidgins, French-basedCreoles and pidgins, Portuguese-basedCrimean Tatar; Crimean TurkishCroatianCushitic languagesCzechDakotaDanishDargwaDeclined to SpecifyDelawareDinkaDivehi; Dhivehi; MaldivianDogriDogribDravidian languagesDualaDutch, Middle (ca.1050-1350)Dutch; FlemishDyulaDzongkhaEastern FrisianEfikEgyptian (Ancient)EkajukElamiteEnglishEnglish, Middle (1100-1500)English, Old (ca.450-1100)ErzyaEsperantoEstonianEuropean Portuguese (as written and spoken in Portugal)EweEwondoFangFantiFaroeseFijianFilipino; PilipinoFinnishFinno-Ugrian languagesFonFrenchFrench, Middle (ca.1400-1600)French, Old (842-ca.1400)FriulianFulahGaGaelic; Scottish GaelicGalibi CaribGalicianGandaGayoGbayaGeezGeorgianGermanGerman, Middle High (ca.1050-1500)German, Old High (ca.750-1050)Germanic languagesGilberteseGondiGorontaloGothicGreboGreek, Ancient (to 1453)Greek, Modern (1453-)GuaraniGujaratiGwich'inHaidaHaitian; Haitian CreoleHausaHawaiianHebrewHereroHiligaynonHimachali languages; Western Pahari languagesHindiHiri MotuHittiteHmong; MongHong Kong, traditional charactersHungarianHupaIbanIcelandicIdoIgboIjo languagesIlokoInari SamiIndian EnglishIndian TamilIndic languagesIndo-European languagesIndonesianIngushInterlingua (International Auxiliary Language Association)Interlingue; OccidentalInuktitutInupiaqIranian languagesIrishIrish, Middle (900-1200)Irish, Old (to 900)Iroquoian languagesItalianJapaneseJavaneseJudeo-ArabicJudeo-PersianKabardianKabyleKachin; JingphoKalaallisut; GreenlandicKalmyk; OiratKambaKannadaKanuriKara-KalpakKarachay-BalkarKarelianKaren languagesKashmiriKashubianKawiKazakhKhasiKhoisan languagesKhotanese; SakanKikuyu; GikuyuKimbunduKinyarwandaKirghiz; KyrgyzKlingon; tlhIngan-HolKomiKongoKonkaniKoreanKosraeanKpelleKru languagesKuanyama; KwanyamaKumykKurdishKurukhKutenaiLadinoLahndaLambaLand Dayak languagesLaoLatinLatvianLezghianLimburgan; Limburger; LimburgishLingalaLithuanianLojbanLow German; Low Saxon; German, Low; Saxon, LowLower SorbianLoziLuba-KatangaLuba-LuluaLuisenoLule SamiLundaLuo (Kenya and Tanzania)LushaiLuxembourgish; LetzeburgeschMacedonianMadureseMagahiMainland China, simplified charactersMaithiliMakasarMalagasyMalayMalayalamMalteseManchuMandarMandingoManipuriManobo languagesManxMaoriMapudungun; MapucheMarathiMariMarshalleseMarwariMasaiMayan languagesMendeMexican SpanishMi'kmaq; MicmacMinangkabauMirandeseMohawkMokshaMon-Khmer languagesMongoMongolianMontenegrinMossiMultiple languagesMunda languagesN'KoNahuatl languagesNauruNavajo; NavahoNdebele, North; North NdebeleNdebele, South; South NdebeleNdongaNeapolitanNepal Bhasa; NewariNepaliNiasNiger-Kordofanian languagesNilo-Saharan languagesNiueanNo linguistic content; Not applicableNogaiNorse, OldNorth American Indian languagesNorthern FrisianNorthern SamiNorwegianNorwegian Nynorsk; Nynorsk, NorwegianNubian languagesNyamweziNyankoleNyoroNzimaOccitan (post 1500)Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)OjibwaOriyaOromoOsageOssetian; OsseticOtomian languagesPahlaviPalauanPaliPampanga; KapampanganPangasinanPanjabi; PunjabiPapiamentoPapuan languagesPedi; Sepedi; Northern SothoPersianPersian, Old (ca.600-400 B.C.)Philippine languagesPhoenicianPohnpeianPolishPortuguesePrakrit languagesProvençal, Old (to 1500);Occitan, Old (to 1500)Pushto; PashtoQuechuaRajasthaniRapanuiRarotongan; Cook Islands MaoriReserved for local useRomance languagesRomanian; Moldavian; MoldovanRomanshRomanyRundiRussianSalishan languagesSamaritan AramaicSami languagesSamoanSandaweSangoSanskritSantaliSardinianSasakScotsSelkupSemitic languagesSerbianSererShanShonaSichuan Yi; NuosuSicilianSidamoSign LanguagesSiksikaSindhiSinhala; SinhaleseSino-Tibetan languagesSiouan languagesSkolt SamiSlave (Athapascan)Slavic languagesSlovakSlovenianSogdianSomaliSonghai languagesSoninkeSorbian languagesSotho, SouthernSouth American Indian languagesSouthern AltaiSouthern SamiSpanish; CastilianSranan TongoSri Lankan TamilStandard Dutch (as spoken in The Netherlands)Standard French (especially in France)Standard German (as spoken in Germany)Standard Italian (as spoken in Italy)Standard Moroccan TamazightSukumaSumerianSundaneseSusuSwahiliSwatiSwedishSwiss FrenchSwiss GermanSwiss German; Alemannic; AlsatianSwiss ItalianSyriacTagalogTahitianTai languagesTaiwan, traditional charactersTajikTamashekTamilTatarTeluguTerenoTetumThaiTibetanTigreTigrinyaTimneTivTlingitTok PisinTokelauTonga (Nyasa)Tonga (Tonga Islands)TsimshianTsongaTswanaTumbukaTupi languagesTurkishTurkish, Ottoman (1500-1928)TurkmenTuvaluTuvinianTwiUdmurtUgariticUighur; UyghurUkrainianUmbunduUncoded languagesUndeterminedUpper SorbianUrduUzbekVaiVendaVietnameseVolapükVoticWakashan languagesWalloonWarayWashoWelshWestern FrisianWolaitta; WolayttaWolofXhosaYakutYaoYapeseYiddishYorubaYupik languagesZande languagesZapotecZaza; Dimili; Dimli; Kirdki; Kirmanjki; ZazakiZenagaZhuang; ChuangZuluZuni</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new_patient_language&quot;)/ul[@class=&quot;dropdown-menu&quot;]/li[3]/ul[@class=&quot;list&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/CompletePatientAdd/Page_Welcome to Persivia/iframe_SignOut_appCCM</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='new_patient_language']/ul/li[3]/ul</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preferred'])[1]/following::ul[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Language'])[2]/following::ul[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[18]/div/div/div/div/ul/li[3]/ul</value>
+   </webElementXpaths>
+</WebElementEntity>

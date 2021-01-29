@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Alergies</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1de4f94-80dc-4216-83da-78c25189c49f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2cf6df4f-5381-483c-bd9f-398770340cce</id>
+      <masked>false</masked>
+      <name>alertText</name>
+   </variable>
+</TestCaseEntity>

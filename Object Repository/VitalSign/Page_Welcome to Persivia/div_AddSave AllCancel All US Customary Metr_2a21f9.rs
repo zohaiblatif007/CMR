@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AddSave AllCancel All US Customary Metr_2a21f9</name>
+   <tag></tag>
+   <elementGuidId>dafbb6a7-731f-47de-8e80-2eb511c4fc20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.k-grid.mz-widget.grid-view.k-widget.k-editable.batch-editing.editable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='e33484e7-1f4c-47b9-a05e-10597ff84f6e-5']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-grid mz-widget grid-view k-widget k-editable batch-editing editable</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mz-key</name>
+      <type>Main</type>
+      <value>clinical.vital.all</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-role</name>
+      <type>Main</type>
+      <value>grid</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AddSave AllCancel All US Customary MetricColumn SettingsObservation DateColumn SettingsTemp°FColumn SettingsPulsebpmColumn SettingsResp RatebpmColumn SettingsBlood Pressuremm HgColumn SettingsWeightlbColumn SettingsHeightinColumn SettingsBMIkg/m2Column SettingsBSAm2Column SettingsO2 Sats%Column SettingsInhaled O2 Concen%Column SettingsBlood Sugarmg/dLselectselectIncrease valueDecrease valueIncrease valueDecrease valueIncrease valueDecrease valueIncrease valueDecrease valueIncrease valueDecrease valueIncrease valueDecrease valueIncrease valueDecrease valueIncrease valueDecrease valueIncrease valueDecrease valueIncrease valueDecrease valueIncrease valueDecrease valueIncrease valueDecrease valueDelete</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;e33484e7-1f4c-47b9-a05e-10597ff84f6e-5&quot;)/div[@class=&quot;k-grid mz-widget grid-view k-widget k-editable batch-editing editable&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/VitalSign/Page_Welcome to Persivia/iframe_SignOut_appCCM</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='e33484e7-1f4c-47b9-a05e-10597ff84f6e-5']/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Principal'])[2]/following::div[8]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[27]/following::div[8]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div[5]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

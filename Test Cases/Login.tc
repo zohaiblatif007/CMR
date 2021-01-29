@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ce9a9f7-a7a4-4900-976e-30ab595dc64c</testCaseGuid>
+   <variable>
+      <defaultValue>'zl@slt.com'</defaultValue>
+      <description></description>
+      <id>e07860bb-12d3-4138-87c3-b845c4cc246f</id>
+      <masked>false</masked>
+      <name>user_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Soliton@2020!'</defaultValue>
+      <description></description>
+      <id>d10d9a8c-a568-4741-be35-c7ac44445cc2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
